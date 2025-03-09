@@ -1,1 +1,6 @@
-.streamlit/
+.DS_Store
+
+.streamlit/secrets.toml
+
+venv/
+__pycache__/
